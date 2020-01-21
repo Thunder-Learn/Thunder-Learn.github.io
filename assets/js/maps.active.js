@@ -10,7 +10,7 @@
                 scrollwheel: false,
 
                 // The latitude and longitude to center the map (always required)
-                center: new google.maps.LatLng(40.6700, -73.9400), // Replace latitude and longitude for your palce.
+                center: new google.maps.LatLng(43.761539, -79.411079), // Replace latitude and longitude for your place.
 
                 styles: [{
                         "featureType": "all",
@@ -189,9 +189,9 @@
 
             // Let's also add a marker while we're at it
             var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(40.6700, -73.9400),
+                position: new google.maps.LatLng(43.761539, -79.411079),
                 map: map,
-                icon: 'assest/img/map-marker.png',
-                title: 'WEEDING DAY!'
+                icon: 'assets/img/map-marker.png',
+                title: 'Launch DAY!'
             });
         }
