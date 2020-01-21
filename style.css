@@ -125,9 +125,9 @@ Version: 1.0
 }
 
 a.enroll-button {
-    background: #d3ffea none repeat scroll 0 0;
+    background: #c5a8f7 none repeat scroll 0 0;
     border-radius: 50px;
-    color: #0be27a;
+    color: #ae51e8;
     padding: 10px 15px;
     text-transform: capitalize;
 }
@@ -138,7 +138,7 @@ a.enroll-button:hover {
 }
 
 .course-price {
-    color: #0be27a;
+    color: #ae51e8;
     float: right;
     font-size: 22px;
     font-weight: 700;
@@ -393,7 +393,7 @@ a.enroll-button:hover {
 }
 
 .contact-form button {
-    background: #3ee792 none repeat scroll 0 0;
+    background: #ac77f7 none repeat scroll 0 0;
     border: 0 none;
     border-radius: 50px;
     color: #ffffff;
@@ -411,7 +411,7 @@ a.enroll-button:hover {
 }
 
 .enroll-button a {
-    background: #31dc89 none repeat scroll 0 0;
+    background: #ac77f7 none repeat scroll 0 0;
     border-radius: 50px;
     color: #ffffff;
     display: inline-block;
@@ -481,7 +481,7 @@ a.enroll-button:hover {
 }
 
 .subscriber-form button {
-    background: #d3ffea none repeat scroll 0 0;
+    background: #c5a8f7 none repeat scroll 0 0;
     border: 0 none;
     border-radius: 0 50px 50px 0;
     color: #171932;
