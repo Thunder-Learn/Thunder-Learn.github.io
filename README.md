@@ -1,2 +1,2 @@
 # Landing-Page
-Temporary landing page for TerraByte (ThunderLearn)
+Temporary landing page for ThunderLearn

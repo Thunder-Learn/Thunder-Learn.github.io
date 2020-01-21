@@ -423,7 +423,7 @@ a.enroll-button:hover {
 }
 
 .enroll-button a:hover {
-    background: #171932 none repeat scroll 0 0;
+    background: #c854f0 none repeat scroll 0 0;
 }
 
 /*---------------------------------
@@ -498,7 +498,7 @@ a.enroll-button:hover {
 }
 
 .subscriber-form button:hover {
-    background: #31dc89 none repeat scroll 0 0;
+    background: #c854f0 none repeat scroll 0 0;
     color: #ffffff;
 }
 
